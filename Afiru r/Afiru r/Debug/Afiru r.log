@@ -1,0 +1,5 @@
+﻿  Afiru r.cpp
+D:\Afiru r\Afiru r\Afiru r.cpp(68,35): warning C4305: "=": obcięcie z "int" do "WORD"
+D:\Afiru r\Afiru r\Afiru r.cpp(68,23): warning C4309: "=": obcięcie stałej wartości
+D:\Afiru r\Afiru r\Afiru r.cpp(85,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Afiru r.vcxproj -> D:\Afiru r\Afiru r\Debug\Afiru r.exe
